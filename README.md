@@ -6,7 +6,7 @@ Github Profile é um projeto pensado para iniciantes no desenvolvimento web que 
 
 O projeto utiliza: React, Styled Components, Axios, React-Router-DOM e React-Icons.
 
-OBS.: Este repositório refere-se aos arquivos iniciais do projeto. Caso queira ver ele completo, [clique aqui](https://github.com/anthonyvii27).
+OBS.: Este repositório refere-se aos arquivos iniciais do projeto. Caso queira ver ele completo, [clique aqui]https://github.com/anthonyvii27/ytb-github-profile-final).
 
 ### Aula
 
